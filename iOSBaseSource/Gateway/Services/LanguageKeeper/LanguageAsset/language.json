@@ -1,0 +1,28 @@
+[
+    {
+        "KEY": "DONE",
+        "vi": "Done",
+        "en": "Done",
+        "Screen ID": null
+    },
+    {
+        "KEY": "CANCEL",
+        "vi": "Cancel",
+        "en": "Cancel",
+        "Screen ID": null
+    },
+    {
+        "KEY": "OK",
+        "vi": "OK",
+        "en": "OK",
+        "Screen ID": null
+    },
+    {
+        "KEY": "HOME_NAV_TITLE",
+        "vi": "Universal TV Remote Control",
+        "en": "Universal TV Remote Control",
+        "Screen ID": null
+    }
+]
+
+

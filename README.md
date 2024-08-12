@@ -1,2 +1,2 @@
 # iOS UIKit RxSwift
-iOS base source code with UI and RxSwift
+iOS base source code with UIKit and RxSwift
